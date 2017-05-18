@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Main-Class: ServerGUI
+Name:ChatMessage.class
+Java-Bean:True
+Name:Client$ListenFromServer.class
+Java-Bean:True
+Name:Client.class
+Java-Bean:True
+Name:ClientGui.class
+Java-Bean:True
+Name:Server$ClientThread.class
+Java-Bean:True
+Name:Server.class
+Java-Bean:True
+Name:ServerGUI$ServerRunning.class
+Java-Bean:True
+Name:ServerGUI.class
+Java-Bean:True
+
+

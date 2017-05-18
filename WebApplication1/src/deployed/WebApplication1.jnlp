@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="WebApplication1.jnlp">
+  <information>
+    <title>WebApplication1</title>
+    <vendor>Unknown</vendor>
+    <description>WebApplication1</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href=".\WebApplication1.jar" size="9658" download="null" />
+  </resources>
+  <jfx:javafx-desc  width="400" height="400" main-class="ServerGUI"  name="WebApplication1" />
+  <update check="background"/>
+</jnlp>
